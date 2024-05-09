@@ -69,6 +69,11 @@ nav > p > a:hover, nav > p > a:active {
     margin: 10px;
 }
 
+dt, dd {
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
 hr {
     
     height: 12px;
